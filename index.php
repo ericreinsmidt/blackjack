@@ -1,8 +1,6 @@
 <html>
 <head>
 	<link rel="stylesheet" type="text/css" href="css/blackjack.css" />
-	<script type="text/javascript" src="js/jquery.js"></script>
-	<script type="text/javascript" src="js/popup.js"></script>
 	<script type="text/javascript" src="js/blackjack.js"></script>
 </head>
 
